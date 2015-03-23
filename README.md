@@ -9,17 +9,11 @@ The easiest way to get started is to install Git and clone the repository
 git clone https://github.com/aanooj/boilerplate-backbone-mocha-chai-karma-coverage-requirejs.git
 ```
 
-##Prerequisites
-
-1. [Grunt](http://gruntjs.com/)
-1. [brower](http://bower.io/	)
-1. [Karma](http://karma-runner.github.io/0.12/index.html)
-1. [Mocha](mochajs.org)
-1. [Chai](chaijs.com)
-1. [coveralls](https://www.npmjs.com/package/coveralls)
-1. [karma-phantomjs-launcher](https://github.com/karma-runner/karma-phantomjs-launcher)
-1. [karma-mocha](https://github.com/karma-runner/karma-mocha)
-1. [karma-coverage](https://github.com/karma-runner/karma-coverage)
+This is boilerplate with ready to TDD:
+ * karma-runner: http://karma-runner.github.io/0.8/index.html
+ * mocha: http://visionmedia.github.io/mocha/
+ * chai: http://chaijs.com/ 
+ * RequireJS: http://requirejs.org/
 
 
 You will need to download and install [Node.js](http://nodejs.org/) if you want
