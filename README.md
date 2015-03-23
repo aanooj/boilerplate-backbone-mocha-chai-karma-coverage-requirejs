@@ -3,9 +3,11 @@ Boilerplate-Backbone-Mocha-Coverage-Requirejs
 
 ## Getting started ##
 
-The easiest way to get started is to install Git and clone the repository (if its available in a git repo). or download the zip version attached
+The easiest way to get started is to install Git and clone the repository 
 
-[Boilerplate-Backbone-Mocha-Coverage-Requirejs]()
+```bash
+git clone https://github.com/aanooj/boilerplate-backbone-mocha-chai-karma-coverage-requirejs.git
+```
 
 ##Prerequisites
 
