@@ -11,7 +11,7 @@ git clone https://github.com/aanooj/boilerplate-backbone-mocha-chai-karma-covera
 
 This is boilerplate with ready to TDD:
  * karma-runner: http://karma-runner.github.io/0.8/index.html
- * mocha: http://visionmedia.github.io/mocha/
+ * mocha: http://mochajs.org/
  * chai: http://chaijs.com/ 
  * RequireJS: http://requirejs.org/
 
